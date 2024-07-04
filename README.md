@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://flgz.gachi.gay/k-hXy" height=180><br>
+  <img src="https://cdn.7tv.app/emote/64407ade6fab698d27de11c3/4x.webp" height=180><br>
 
 <samp>
     <b>Hi there 👋</b> I'm Erlan Felugoz,
