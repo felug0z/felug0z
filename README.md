@@ -3,5 +3,5 @@
 
 <samp>
 <br>hello, i'm Erlan Felugoz,<br>
-<br> i love twitch.tv and all that goes with it :)<br>
+<br>i love twitch.tv and all that goes with it :)<br>
 <samp>
